@@ -5,5 +5,6 @@ public class Main {
         for (int i = 0; i < 5; i++) {
             System.out.println("Hello fuckers!");
         }
+        System.out.println("Thats all falks...");
     }
 }
