@@ -6,5 +6,6 @@ public class Main {
             System.out.println("Hello fuckers!!!");
         }
         System.out.println("Thats all falks...");
+        System.out.println("Thats all falks...");
     }
 }
